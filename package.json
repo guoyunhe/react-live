@@ -1,5 +1,5 @@
 {
-  "name": "react-live",
+  "name": "react-live-typescript",
   "version": "3.1.1",
   "description": "A production-focused playground for live editing React code",
   "main": "dist/react-live.cjs.js",
